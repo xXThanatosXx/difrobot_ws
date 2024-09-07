@@ -17,6 +17,8 @@ set(CMAKE_MULTIPLE_OUTPUT_PAIRS
   "/home/user/difrobot_ws/build/difrobot_msgs/rosidl_generator_py/difrobot_msgs/srv/__init__.py" "/home/user/difrobot_ws/build/difrobot_msgs/rosidl_generator_py/difrobot_msgs/_difrobot_msgs_s.ep.rosidl_typesupport_fastrtps_c.c"
   "/home/user/difrobot_ws/build/difrobot_msgs/rosidl_generator_py/difrobot_msgs/srv/_add_two_ints.py" "/home/user/difrobot_ws/build/difrobot_msgs/rosidl_generator_py/difrobot_msgs/_difrobot_msgs_s.ep.rosidl_typesupport_fastrtps_c.c"
   "/home/user/difrobot_ws/build/difrobot_msgs/rosidl_generator_py/difrobot_msgs/srv/_add_two_ints_s.c" "/home/user/difrobot_ws/build/difrobot_msgs/rosidl_generator_py/difrobot_msgs/_difrobot_msgs_s.ep.rosidl_typesupport_fastrtps_c.c"
+  "/home/user/difrobot_ws/build/difrobot_msgs/rosidl_generator_py/difrobot_msgs/srv/_get_transform.py" "/home/user/difrobot_ws/build/difrobot_msgs/rosidl_generator_py/difrobot_msgs/_difrobot_msgs_s.ep.rosidl_typesupport_fastrtps_c.c"
+  "/home/user/difrobot_ws/build/difrobot_msgs/rosidl_generator_py/difrobot_msgs/srv/_get_transform_s.c" "/home/user/difrobot_ws/build/difrobot_msgs/rosidl_generator_py/difrobot_msgs/_difrobot_msgs_s.ep.rosidl_typesupport_fastrtps_c.c"
   )
 
 

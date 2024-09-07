@@ -55,7 +55,7 @@ add_library(difrobot_msgs::difrobot_msgs__rosidl_typesupport_introspection_c SHA
 
 set_target_properties(difrobot_msgs::difrobot_msgs__rosidl_typesupport_introspection_c PROPERTIES
   INTERFACE_INCLUDE_DIRECTORIES "${_IMPORT_PREFIX}/include/difrobot_msgs"
-  INTERFACE_LINK_LIBRARIES "difrobot_msgs::difrobot_msgs__rosidl_generator_c;rosidl_typesupport_introspection_c::rosidl_typesupport_introspection_c"
+  INTERFACE_LINK_LIBRARIES "difrobot_msgs::difrobot_msgs__rosidl_generator_c;rosidl_typesupport_introspection_c::rosidl_typesupport_introspection_c;geometry_msgs::geometry_msgs__rosidl_typesupport_introspection_c;std_msgs::std_msgs__rosidl_typesupport_introspection_c"
 )
 
 if(CMAKE_VERSION VERSION_LESS 2.8.12)

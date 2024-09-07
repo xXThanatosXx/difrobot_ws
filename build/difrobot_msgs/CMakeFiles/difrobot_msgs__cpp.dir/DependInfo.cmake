@@ -15,6 +15,10 @@ set(CMAKE_MULTIPLE_OUTPUT_PAIRS
   "/home/user/difrobot_ws/build/difrobot_msgs/rosidl_generator_cpp/difrobot_msgs/srv/detail/add_two_ints__builder.hpp" "/home/user/difrobot_ws/build/difrobot_msgs/rosidl_generator_cpp/difrobot_msgs/srv/add_two_ints.hpp"
   "/home/user/difrobot_ws/build/difrobot_msgs/rosidl_generator_cpp/difrobot_msgs/srv/detail/add_two_ints__struct.hpp" "/home/user/difrobot_ws/build/difrobot_msgs/rosidl_generator_cpp/difrobot_msgs/srv/add_two_ints.hpp"
   "/home/user/difrobot_ws/build/difrobot_msgs/rosidl_generator_cpp/difrobot_msgs/srv/detail/add_two_ints__traits.hpp" "/home/user/difrobot_ws/build/difrobot_msgs/rosidl_generator_cpp/difrobot_msgs/srv/add_two_ints.hpp"
+  "/home/user/difrobot_ws/build/difrobot_msgs/rosidl_generator_cpp/difrobot_msgs/srv/detail/get_transform__builder.hpp" "/home/user/difrobot_ws/build/difrobot_msgs/rosidl_generator_cpp/difrobot_msgs/srv/add_two_ints.hpp"
+  "/home/user/difrobot_ws/build/difrobot_msgs/rosidl_generator_cpp/difrobot_msgs/srv/detail/get_transform__struct.hpp" "/home/user/difrobot_ws/build/difrobot_msgs/rosidl_generator_cpp/difrobot_msgs/srv/add_two_ints.hpp"
+  "/home/user/difrobot_ws/build/difrobot_msgs/rosidl_generator_cpp/difrobot_msgs/srv/detail/get_transform__traits.hpp" "/home/user/difrobot_ws/build/difrobot_msgs/rosidl_generator_cpp/difrobot_msgs/srv/add_two_ints.hpp"
+  "/home/user/difrobot_ws/build/difrobot_msgs/rosidl_generator_cpp/difrobot_msgs/srv/get_transform.hpp" "/home/user/difrobot_ws/build/difrobot_msgs/rosidl_generator_cpp/difrobot_msgs/srv/add_two_ints.hpp"
   )
 
 
